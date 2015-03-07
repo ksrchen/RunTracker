@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RunTracker</string>
+    <string name="elapsed_time">Elapsed_time</string>
+    <string name="started">Started</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="altitude">Altitude</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="gps_enabled">GPS enabled</string>
+    <string name="gps_disabled">GPS disable</string>
+    <string name="cell_text" >Run at %1$S</string>
+    <string name="new_run">New Run</string>
+    <string name="map">MAP</string>
+    <string name="run_start">Run Start</string>
+    <string name="run_started_at_format">Run Started at %s</string>
+    <string name="run_finished">Run Finish</string>
+    <string name="run_finished_at_format">Run Finished at %s</string>
+</resources>

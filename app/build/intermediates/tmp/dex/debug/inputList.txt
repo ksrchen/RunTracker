@@ -1,0 +1,5 @@
+/Users/ksrchen/AndroidStudioProjects/RunTracker/app/build/intermediates/classes/debug
+/Users/ksrchen/AndroidStudioProjects/RunTracker/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-1dd84727fdfe78be9ac0be88cd39aa56912be9bd.jar
+/Users/ksrchen/AndroidStudioProjects/RunTracker/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-02bf91a900606e2624dbb0077c793558b7c74024.jar
+/Users/ksrchen/AndroidStudioProjects/RunTracker/app/build/intermediates/pre-dexed/debug/classes-47b246bb8faa687a0a13fc3ef17f203e741291b7.jar
+/Users/ksrchen/AndroidStudioProjects/RunTracker/app/build/intermediates/pre-dexed/debug/classes-9ce085ee3418b0b4b46036532b61d084eaf65dc8.jar
